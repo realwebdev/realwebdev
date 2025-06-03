@@ -1,5 +1,5 @@
-# 👋 Hey there, I'm Muhammad Haseeb Zafar (Engineer, Hacker, Researcher)
-
+# 👋 Hey there, I'm Muhammad Haseeb Zafar
+    engineer - hacker - researcher
 🚀 **Site Reliability Engineer @ Doctolib** | 🇫🇷 Co-organizer @ CNCF Nantes  
 🔧 Passionate about **DevOps**, **Containers**, **Serverless**, and building reliable distributed systems.
 
