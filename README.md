@@ -48,8 +48,8 @@ I’m deeply interested in:
 
 ## 📈 GitHub Stats
 
-![Haseeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaseebZafar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaseebZafar&layout=compact&theme=radical)
+![Haseeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=realwebdev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realwebdev&layout=compact&theme=radical)
 
 ---
 
