@@ -39,10 +39,10 @@ I’m deeply interested in:
 
 ## 📢 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhammadHaseebZafar/)  
-- 🐦 [Twitter](https://twitter.com/Haseeb_Zafar)  
-- 📫 Email: muhammadHaseebZafar@gmail.com  
-- 🌐 [Portfolio / Blog](https://your-website.dev) *(if you have one)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-haseeb-zafar-185563149/)  
+- 🐦 [Twitter](https://x.com/m7haseebz)  
+- 📫 Email: haseebshalan@gmail.com  
+- 🌐 [Portfolio / Blog](https://your-website.dev) *(wip)*
 
 ---
 
