@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Muhammad Haseeb Zafar
 
-🚀 **Site Reliability Engineer @ Doctolib** | 🇫🇷 Co-organizer @ CNCF Nantes  
+🚀 **Software Engineer @ Drop Xpert** | Co-organizer @ Blood-Donor-Bank  
 🔧 Passionate about **DevOps**, **Containers**, **Serverless**, and building reliable distributed systems.
 
 ---
