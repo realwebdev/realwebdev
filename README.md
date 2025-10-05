@@ -44,14 +44,5 @@ I’m deeply interested in:
 - 📫 Email: haseebshalan@gmail.com  
 - 🌐 [Portfolio / Blog](https://your-website.dev) *(wip)*
 
----
-
-## 📈 GitHub Stats
-
-![Haseeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=realwebdev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realwebdev&layout=compact&theme=radical)
-
----
-
 > _“Be so good they can’t ignore you.” – Steve Martin_
 
