@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Muhammad Haseeb Zafar
 
-🚀 **Software Engineer @ Drop Xpert** | Co-organizer @ Blood-Donor-Bank  
+🚀 **Software Engineer @ Karaz Platform** | Co-organizer @ Blood-Donor-Bank  
 🔧 Passionate about **DevOps**, **Containers**, **Serverless**, and building reliable distributed systems.
 
 ---
