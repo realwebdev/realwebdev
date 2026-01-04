@@ -20,7 +20,7 @@ I’m deeply interested in:
 
 ## 🛠️ Tech Stack & Tools
 
-- 💻 Languages: Go, Python, JavaScript (Node.js), TypeScript  
+- 💻 Languages: Go, Python, R, HTML
 - 🗄️ Databases: PostgreSQL, MongoDB, Redis  
 - ☁️ Cloud: AWS, GCP (beginner), Docker, Kubernetes, Terraform  
 - 🛠️ DevOps: GitHub Actions, Helm, ArgoCD, Prometheus, Grafana  
