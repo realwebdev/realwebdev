@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Muhammad Haseeb Zafar
 
-🚀 **Software Engineer @ Karaz Platform** | Co-organizer @ Blood-Donor-Bank  
-🔧 Passionate about **DevOps**, **Containers**, **Serverless**, and building reliable distributed systems.
+🚀 **Software Engineer @ Karaz Platform** 
+🔧 Passionate about **Backend Engineering**, **Architecture**, **System Design**, **Infrastructure**, and building reliable distributed systems.
 
 ---
 
@@ -24,8 +24,8 @@ I’m deeply interested in:
 - 🗄️ Databases: PostgreSQL, MongoDB, Redis  
 - ☁️ Cloud: AWS, GCP (beginner), Docker, Kubernetes, Terraform  
 - 🛠️ DevOps: GitHub Actions, Helm, ArgoCD, Prometheus, Grafana  
-- 🔄 Messaging: NATS, Kafka (learning)  
-- ✍️ Writing Clean Code | Hexagonal Architecture | DDD
+- 🔄 Messaging: NATS, Kafka 
+- ✍️ Writing Clean Code | Hexagonal Architecture | Domain Driven Design | Service Oriented Architecture
 
 ---
 
